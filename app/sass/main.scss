@@ -1,0 +1,47 @@
+@import "./lib/colors.scss";
+// @import "./lib/nav.scss";
+// @import "./lib/z-index.scss";
+// @import "./lib/spacing.scss";
+// @import "./lib/buttons.scss";
+// @import "./lib/components.scss";
+// @import "./lib/progress.scss";
+// @import "./lib/form.scss";
+// @import "./lib/table.scss";
+// @import "./lib/modal.scss";
+// @import "./lib/footer.scss";
+
+body {
+  //font-family: Open Sans;
+  font-weight: 300;
+  font-style: normal;
+  color: $blue;
+}
+
+nav ul a {
+  color: #000;
+}
+
+// h1 {
+//   font-weight: 600;
+//   line-height: 1.3em;
+// }
+
+// h2 {
+//   font-weight: 600;
+//   font-size: 1.7em;
+//   line-height: 2.1em;
+// }
+
+// hr {
+//   margin: 40px 0;
+// }
+
+// a, a:hover, a:visited {color: $green}
+
+// .tiny {
+//   font-size: 11px;
+// }
+
+
+
+

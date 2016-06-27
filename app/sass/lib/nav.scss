@@ -1,0 +1,52 @@
+/* Navbar */
+.navbar {
+  background-color: $blue;
+  border: 0px;
+  border-radius: 0px;
+  min-height: 70px;
+  margin-bottom: 0px;
+}
+.navbar-default .navbar-brand {
+  height: 70px;
+  padding: 0px 0px 0px 20px;
+  font-size: 2.4em;
+  line-height: 2.25em;
+  color: $green;
+  font-weight: 700;
+}
+.navbar-default .navbar-nav>li {
+  margin: 16px 9px;
+}
+.navbar-default .navbar-nav>li>a {
+  line-height: 26px;
+  padding:  6px 12px;
+  color: #fff;
+}
+.navbar-default .navbar-nav li.login > a {
+  background-color: $green;
+  border-radius: 11px;
+  padding:  6px 28px;
+  color: $blue;
+}
+
+
+/* Dash tabs */
+.dash li {
+  width: 25%;
+  text-transform: uppercase;
+  text-align: center;
+  font-weight: 600;
+  a, a:visited, a:hover {
+    // border: 0px;
+    color: $blue;
+    padding: 20px 25px;
+    border-radius: 10px 10px 0 0;
+    background-color: $yellow;
+  }
+  .nav>li>a {
+    padding: 20px 25px;
+  }
+  &.active a {
+    //border-color: #fff;
+  }
+}

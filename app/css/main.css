@@ -1,0 +1,25 @@
+.bg-blue {
+  background-color: #1c2034; }
+
+.bg-yellow {
+  background-color: #ffd738; }
+
+.bg-light-grey {
+  background-color: #e7e7e9; }
+
+.bg-grey {
+  background-color: #777b84; }
+
+.color-white {
+  color: #fff; }
+
+.color-blue {
+  color: #1c2034; }
+
+body {
+  font-weight: 300;
+  font-style: normal;
+  color: #1c2034; }
+
+nav ul a {
+  color: #000; }

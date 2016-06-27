@@ -1,0 +1,41 @@
+.form-wrap {
+  background-color: $blue;
+  h1, h2 {
+    margin-bottom: 30px;
+  }
+  legend {
+    font-size: 32px;
+    font-weight: 600;
+    color: #fff;
+    border-bottom: 0px;
+    text-align: left;
+  }
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+label {
+  display: none;
+}
+.checkbox label {
+  display: inline-block;
+  color: #fff;
+}
+
+input.form-control {
+  border-radius: 0px;
+}
+
+.button-group {
+  margin: 30px 10%;
+}
+
+.login .form-wrap {
+  padding: 10% 23%;
+}
+
+.signup .form-wrap {
+  padding: 7% 10%;
+}

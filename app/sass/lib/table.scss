@@ -1,0 +1,32 @@
+.fuelledTable {
+	border-left: 1px solid $blue;
+	border-right: 1px solid $blue;
+	border-bottom: 1px solid $blue;
+	thead {
+		background-color: $blue;
+		color: #fff;
+		>tr>th {
+			border: 0px;
+		}
+	}
+	input[type=checkbox] {
+		width: 20px;
+		height: 20px;
+		margin: 0 0 1px 1px;
+		// -webkit-appearance:none;
+		//    -moz-appearance:none;
+		// 	 -o-appearance:none;
+		// background-color: #fff;
+		// border: 1px solid $grey;
+	}
+	>tbody>tr>td {
+		border-color: $blue;
+	}
+	.greenRow td {
+		background-color: $green;
+	}
+	.demotedRow td {
+		color: $grey;
+	}
+
+}

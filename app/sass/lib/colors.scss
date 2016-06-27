@@ -1,0 +1,31 @@
+$blue: rgb(28,32,52);
+$yellow: rgb(255,215,56);
+$green: rgb(97,186,162);
+$grey: rgb(119,123,132);
+$lightGrey: rgb(231,231,233);
+$midGrey: rgb(165,165,173);
+$darkGrey: rgb(115,123,132);
+
+.bg-blue {
+  background-color: $blue;
+}
+
+.bg-yellow {
+  background-color: $yellow;
+}
+
+.bg-light-grey {
+  background-color: $lightGrey;
+}
+
+.bg-grey {
+  background-color: $grey;
+}
+
+.color-white {
+  color: #fff;
+}
+
+.color-blue {
+  color: $blue;
+}

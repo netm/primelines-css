@@ -1,0 +1,19 @@
+{
+  "name": "primelines-css",
+  "version": "1.0.0",
+  "description": "css by Gwilym",
+  "main": "gulp.js",
+  "dependencies": {},
+  "devDependencies": {
+    "express": "^4.13.4",
+    "gulp-livereload": "^3.8.1",
+    "gulp-nunjucks-render": "^2.0.0",
+    "gulp-sass": "^2.3.1",
+    "live-reload": "^1.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
