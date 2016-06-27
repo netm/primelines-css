@@ -21,5 +21,8 @@ body {
   font-style: normal;
   color: #1c2034; }
 
+nav .brand-logo {
+  color: red; }
+
 nav ul a {
   color: #000; }

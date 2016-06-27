@@ -17,9 +17,16 @@ body {
   color: $blue;
 }
 
-nav ul a {
-  color: #000;
+
+nav{
+	.brand-logo {
+		color: red;
+	}
+	ul a {
+		color: #000;
+	}
 }
+
 
 // h1 {
 //   font-weight: 600;
